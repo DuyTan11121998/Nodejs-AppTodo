@@ -1,0 +1,22 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "App with Nodejs and  Angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-todos"
+  ],
+  "author": "Tan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mogoose": "0.0.1-security",
+    "mongoose": "^5.9.10",
+    "morgan": "^1.10.0"
+  }
+}
